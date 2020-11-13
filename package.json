@@ -22,9 +22,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rodrigorgtic/minha-carteira-backend.git"
+    "url": "git+https://github.com/JoaoRamosPaiva/MinhaCarteira.git"
   },
-  "author": "Rodrigo Gonçalves Santana",
+  "author": "Joâo Vitor Ramos de Paiva",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
